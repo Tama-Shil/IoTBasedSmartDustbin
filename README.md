@@ -23,7 +23,8 @@ Circuit Connection: Circuit connections are provided in the figure folder.
 
 *** Keep the nodemcu and Arduino disconnected when uploading code 
 
-A demo video is added in the repository
+A complete guide video drive link--
+* https://meet.google.com/zbg-yxyk-qdb?hs=224
 
 
 
