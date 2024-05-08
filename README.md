@@ -24,7 +24,7 @@ Circuit Connection: Circuit connections are provided in the figure folder.
 *** Keep the nodemcu and Arduino disconnected when uploading code 
 
 A complete guide video drive link--
-* https://meet.google.com/zbg-yxyk-qdb?hs=224
+* https://drive.google.com/drive/folders/1cy5vif__F21_Yel5aKJX8CoKSEZ059EK?usp=drive_link
 
 
 
